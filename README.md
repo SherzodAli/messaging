@@ -11,4 +11,4 @@
 
 - Переходим в папку `frontend` и скачиваем зависимости с командой `npm install`
 - Запускаем frontend с командой `npm run start`
-- Переходим по адресу `http://localhost:3000/`
+- Переходим по адресу [http://localhost:3000/](http://localhost:3000/)
